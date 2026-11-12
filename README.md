@@ -11,4 +11,4 @@ git config --global user.name
 git config --global user.email
 vi prg 6.txt
 git add prg6.txt
-git custom commit message"
+git custom "commit message"
